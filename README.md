@@ -19,7 +19,7 @@ whoami:
 <div align="center">
 
 <sub>CLOUD & INFRA</sub><br>
-<img src="https://skillicons.dev/icons?i=gcp,aws,kubernetes,docker,terraform,ansible,proxmox,vmware,linux,redhat,windows&perline=11" alt="GCP, AWS, Kubernetes, Docker, Terraform, Ansible, Proxmox, VMware, Linux, Red Hat, Windows Server">
+<img src="https://skillicons.dev/icons?i=gcp,aws,kubernetes,docker,terraform,ansible,linux,redhat,windows&perline=11" alt="GCP, AWS, Kubernetes, Docker, Terraform, Ansible, Linux, Red Hat, Windows Server">
 
 <sub>CI/CD & OBSERVABILITY</sub><br>
 <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,grafana,elasticsearch&perline=11" alt="GitHub Actions, GitLab CI, Jenkins, Grafana, Elastic Stack">
