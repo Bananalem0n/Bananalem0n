@@ -10,7 +10,3 @@ I run infrastructure on GCP, codify it with Terraform and Ansible, and build the
 <br>
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp,kubernetes,terraform,ansible,docker,githubactions,grafana,linux,go,python,ts&perline=11" height="36" alt="GCP, Kubernetes, Terraform, Ansible, Docker, GitHub Actions, Grafana, Linux, Go, Python, TypeScript"></a>
-
-<br>
-
-[sodachi.dev](https://sodachi.dev)
