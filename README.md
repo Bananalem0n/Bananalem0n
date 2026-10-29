@@ -7,25 +7,11 @@
 
 </div>
 
-```yaml
-whoami:
-  role:   Cloud & DevOps Engineer
-  now:    fraud-detection systems ops, GCP infra-as-code & security audits
-  before: system engineer — ~100 VMs across enterprise clients, full-stack web, IoT
-  side:   Go, Rust, self-hosting everything
-  certs:  GCP Professional Cloud Architect · OCI Architect Associate · Nutanix NCP ×3
-```
+Cloud & DevOps engineer based in Jakarta. I keep production fraud-detection systems running and manage GCP infrastructure as code with Terraform. Before that, I was a system engineer running ~100 VMs for enterprise clients. Google Cloud Professional Cloud Architect.
 
 <div align="center">
 
-<sub>CLOUD & INFRA</sub><br>
-<img src="https://skillicons.dev/icons?i=gcp,aws,kubernetes,docker,terraform,ansible,linux,redhat,windows&perline=11" alt="GCP, AWS, Kubernetes, Docker, Terraform, Ansible, Linux, Red Hat, Windows Server">
-
-<sub>CI/CD & OBSERVABILITY</sub><br>
-<img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,grafana,elasticsearch&perline=11" alt="GitHub Actions, GitLab CI, Jenkins, Grafana, Elastic Stack">
-
-<sub>CODE & DATA</sub><br>
-<img src="https://skillicons.dev/icons?i=go,rust,python,ts,kotlin,nextjs,nestjs,postgres,mysql,redis,firebase&perline=11" alt="Go, Rust, Python, TypeScript, Kotlin, Next.js, NestJS, Postgres, MySQL, Redis, Firebase">
+<img src="https://skillicons.dev/icons?i=gcp,aws,kubernetes,terraform,ansible,linux,githubactions,python" alt="GCP, AWS, Kubernetes, Terraform, Ansible, Linux, GitHub Actions, Python">
 
 <br><br>
 
