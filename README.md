@@ -13,7 +13,7 @@ Cloud & DevOps engineer based in Jakarta. I keep production fraud-detection syst
 
 <img src="https://skillicons.dev/icons?i=gcp,aws,kubernetes,terraform,ansible,linux,githubactions,python" alt="GCP, AWS, Kubernetes, Terraform, Ansible, Linux, GitHub Actions, Python">
 
-<br><br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bananalem0n/Bananalem0n/output/snake-dark.svg">
