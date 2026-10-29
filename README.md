@@ -7,7 +7,7 @@
 
 </div>
 
-Cloud & DevOps engineer based in Jakarta. I keep production fraud-detection systems running and manage GCP infrastructure as code with Terraform. Before that, I was a system engineer running ~100 VMs for enterprise clients. Google Cloud Professional Cloud Architect.
+Cloud & DevOps engineer based in Jakarta. I build and automate infrastructure on GCP and AWS, mostly with Terraform, Ansible and Kubernetes.
 
 <div align="center">
 
